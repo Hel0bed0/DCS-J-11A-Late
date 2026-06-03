@@ -13,6 +13,6 @@ Replace J-11A.lua (standard one) with J-11A.lua (mod one)
 Then when you run the game, J-11A will have PL-8B and PL-12
 
 
-# Why not a differant aircraft?
+# Why does it have to replace J-11A?
 
 All cockpits that aren't from free aircraft (Su-25T and TF-51D as of writing) aren't avalable for mods to use (so you can't fly it with that cockpit).
