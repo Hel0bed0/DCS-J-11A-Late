@@ -16,3 +16,7 @@ Then when you run the game, J-11A will have PL-8B and PL-12
 # Why does it have to replace J-11A?
 
 All cockpits that aren't from free aircraft (Su-25T and TF-51D as of writing) aren't avalable for mods to use (so you can't fly it with that cockpit).
+
+# Does it pass integrity check?
+
+No.
