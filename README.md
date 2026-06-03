@@ -1,6 +1,6 @@
 A J-11A with PL-8B and PL-12 (gonna add PL-12A soon™).
 
-This mod replaces the standard J-11A
+This mod replaces the standard J-11A and makes it avalable for Russia in mission editor.
 
 You need the Su-27 Flaming Cliffs to fly it
 
