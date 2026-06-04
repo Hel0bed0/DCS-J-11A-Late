@@ -423,7 +423,7 @@ J11A = {
             {
                 { CLSID = '{9B25D316-0434-4954-868F-D51DB1A38DF0}', arg_value = 0 }, --R-27R
                 { CLSID = '{E8069896-8435-4B90-95C0-01A03AE6E400}', arg_value = 0 }, --R-27ER
-                { CLSID = '{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}', arg_value = 0 }, --R-27ET
+                --{ CLSID = '{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}', arg_value = 0 }, --R-27ET
                 { CLSID = '{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}', arg_value = 0.35, Type = 1 }, --R-77
                 { CLSID = "DIS_PL-12", arg_value = 0.2 },
                 BD3('{37DCC01E-9E02-432F-B61D-10C166CA2798}'), --FAB-500 M62
