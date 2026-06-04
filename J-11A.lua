@@ -20,7 +20,7 @@ mount_vfs_texture_path (current_mod_path .. '/Textures/J-11A')
 
 J11A = {
     Name             = 'J-11A',
-    DisplayName      = _('J-11A'),
+    DisplayName      = _('J-11A2'),
     WorldID          = J_11A,
     EmptyWeight      = "17500",
     MaxTakeOffWeight = "33000",
@@ -372,7 +372,7 @@ J11A = {
                 { CLSID = '{E8069896-8435-4B90-95C0-01A03AE6E400}', arg_value = 0 }, --R-27ER
                 --{ CLSID = '{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}', arg_value = 0 }, --R-27ET
                 { CLSID = '{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}', arg_value = 0.35, Type = 1 }, --R-77
-                { CLSID = "DIS_PL-12", arg_value = 0.2 },
+                { CLSID = "DIS_PL-12", arg_value = 0 },
                 { CLSID = '{RKL609_L}', arg_value = 0.35 },--Sorbciya
                 BD3('{37DCC01E-9E02-432F-B61D-10C166CA2798}'), --FAB-500 M62
                 BD3('{3C612111-C7AD-476E-8A8E-2485812F4E5C}'),--FAB-250
@@ -398,7 +398,7 @@ J11A = {
                 { CLSID = '{E8069896-8435-4B90-95C0-01A03AE6E400}', arg_value = 0 }, --R-27ER
                 --{ CLSID = '{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}', arg_value = 0 }, --R-27ET
                 { CLSID = '{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}', arg_value = 0.35, Type = 1 }, --R-77
-                { CLSID = "DIS_PL-12", arg_value = 0.2 },
+                { CLSID = "DIS_PL-12", arg_value = 0 },
                 BD3('{37DCC01E-9E02-432F-B61D-10C166CA2798}'), --FAB-500 M62
                 BD3('{3C612111-C7AD-476E-8A8E-2485812F4E5C}'),--FAB-250
                 BD3("{35B698AC-9FEF-4EC4-AD29-484A0085F62B}"),--BetAB-500
